@@ -1,3 +1,4 @@
 # hello-world
 Tutorial
-Entering text to test out a commit function.
+
+Hey Everyone, I am entering text to test out a commit function.
